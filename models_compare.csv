@@ -1,0 +1,2 @@
+,model,train_loss,train_acc,val_loss,val_acc
+0,squeezenet1_1,3.5138050255286672,"tensor(0.2128, device='cuda:0', dtype=torch.float64)",2.106002203623454,"tensor(0.4556, device='cuda:0', dtype=torch.float64)"
