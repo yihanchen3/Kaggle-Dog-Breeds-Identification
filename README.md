@@ -1,10 +1,10 @@
-# AMLS_FINAL_II
+# Kaggle Dog Breeds Identification Project
 
-In this project, the Kaggle competition Dog Breeds Identification is addressed through feature-based transfer learning. Threemain steps are described blow. The Kaggle compeption link is : https://www.kaggle.com/competitions/dog-breed-identification
+This project addresses the Kaggle competition [Dog Breeds Identification](https://www.kaggle.com/competitions/dog-breed-identification) using feature-based transfer learning. The following three main steps are described:
 
-1. A set of pre-trained modes based on ImageNet is evaluated on the dog breeds dataset by transfer learning.
-2. The best two models with the highest validation accuracy are selected as feature extractor to acquire the features of the dog breeds.
-3. The featues extracted are concatenated and fed into a DNN classifier as input to train and predict the dog breeds.
+1. Evaluate a set of pre-trained models based on ImageNet through transfer learning on the dog breeds dataset.
+2. Select the top two models with the highest validation accuracy as feature extractors to obtain the distinctive features of the dog breeds.
+3. Concatenate the extracted features and input them into a Deep Neural Network (DNN) classifier for training and predicting the dog breeds.
 
 ## How to run the project
 
